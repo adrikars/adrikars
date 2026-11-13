@@ -60,8 +60,8 @@ My goal is to become a skilled AI/ML Engineer by developing strong foundations i
 
 📫 Connect With Me
 
-- 💼 LinkedIn: "Connect with me" (YOUR_LINKEDIN_URL)
-- 💻 GitHub: "My GitHub Profile" (YOUR_GITHUB_URL)
+- 💼 LinkedIn: "Connect with me" (https://www.linkedin.com/in/adrika-r-s-31711342b/)
+- 💻 GitHub: "My GitHub Profile" ( https://github.com/adrikars)
 
 ---
 
